@@ -1,5 +1,6 @@
 # jalouOS
 > JalouOS is a little script running on a ESP8266 microcontroller. 
+
 It has basicly two tasks: 
 * controlling a NEMA-17 stepper driver 
 * measuring the room temperature
